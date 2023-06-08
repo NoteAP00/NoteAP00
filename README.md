@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://twitter.com/what_doesitmean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="what_doesitmean" height="30" width="40" /></a>
 <a href="https://fb.com/note.apinun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="note.apinun" height="30" width="40" /></a>
-<a href="https://instagram.com/@noteapinun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@noteapinun" height="30" width="40" /></a>
+<a href="https://instagram.com/noteapinun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@noteapinun" height="30" width="40" /></a>
 <a href="https://discord.gg/노트#6431" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="노트#6431" height="30" width="40" /></a>
 </p>
 
