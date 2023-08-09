@@ -21,7 +21,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=noteap00&show_icons=true&locale=en" alt="noteap00" height="100"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noteap00&show_icons=true&locale=en&layout=compact" alt="noteap00" height="100"/>
  <br><br>
- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@NoteAP00" alt="noteap00" width="425"/>
+<!--  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@NoteAP00" alt="noteap00" width="425"/> -->
  
 </p>
 </div>
